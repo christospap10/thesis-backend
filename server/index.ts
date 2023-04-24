@@ -4,6 +4,7 @@ import * as  dotenv from 'dotenv';
 import Logger from '../lib/logger';
 import morganMiddleware from '../config/morganMiddleware';
 import { createPinRouter, getAllPinsRouter } from '../routes/pins';
+import { createUserRouter, loginUserRouter } from '../routes/users';
 
 
 const app = express();
@@ -54,6 +55,8 @@ app.get("/logger", (_, res) => {
 // ROUTES
 app.use('/api/pins', createPinRouter);
 app.use('/api/pins', getAllPinsRouter);
+app.use('/api/users', createUserRouter);
+app.use('/api/users', loginUserRouter);
 
 
 
