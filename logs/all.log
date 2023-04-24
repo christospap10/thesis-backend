@@ -1,0 +1,55 @@
+2023-04-24 15:58:32:5832 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 15:59:20:5920 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 15:59:20:5920 [32minfo[39m: [32mPromise { undefined }[39m
+2023-04-24 15:59:56:5956 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 15:59:56:5956 [37mdebug[39m: [37mPromise { undefined }[39m
+2023-04-24 16:01:42:142 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:01:42:142 [37mdebug[39m: [37mConnected to mongodb server successfully![39m
+2023-04-24 16:02:47:247 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:02:47:247 [37mdebug[39m: [37mConnected to mongodb server successfully![39m
+2023-04-24 16:09:29:929 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:09:40:940 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:10:07:107 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:10:18:1018 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:28:27:2827 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:28:38:2838 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:32:37:3237 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:32:48:3248 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:44:03:443 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:44:14:4414 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:44:44:4444 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:44:55:4455 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:57:36:5736 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:57:47:5747 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 16:58:10:5810 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 16:58:22:5822 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:04:26:426 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:04:37:437 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:04:54:454 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:05:05:55 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:06:32:632 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:06:43:643 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:07:32:732 [35mhttp[39m: [35mPOST /api/pins 200 277 - 789.595 ms[39m
+[35m[39m
+2023-04-24 17:10:18:1018 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:10:29:1029 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:12:20:1220 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:12:31:1231 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:14:10:1410 [35mhttp[39m: [35mPOST /api/pins 200 285 - 818.485 ms[39m
+[35m[39m
+2023-04-24 17:18:08:188 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:18:19:1819 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:19:36:1936 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:19:48:1948 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:20:23:2023 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:20:34:2034 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:20:38:2038 [35mhttp[39m: [35mGET /api/pins 500 502 - 135.216 ms[39m
+[35m[39m
+2023-04-24 17:21:01:211 [35mhttp[39m: [35mGET /api/pins 500 502 - 126.002 ms[39m
+[35m[39m
+2023-04-24 17:21:53:2153 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:22:05:225 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-24 17:22:08:228 [35mhttp[39m: [35mGET /api/pins 200 502 - 161.175 ms[39m
+[35m[39m
+2023-04-24 17:24:29:2429 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-24 17:24:40:2440 [32minfo[39m: [32mConnected to MongoDB successfully[39m
