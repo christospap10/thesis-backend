@@ -2441,3 +2441,256 @@
 [35m[39m
 2023-04-28 16:00:31:031 [35mhttp[39m: [35mGET /api/pins 200 4061 - 129.535 ms[39m
 [35m[39m
+2023-04-28 16:08:45:845 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-28 16:08:56:856 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-28 16:36:25:3625 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-28 16:36:36:3636 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-28 16:37:27:3727 [35mhttp[39m: [35mGET /api/pins 200 4061 - 829.641 ms[39m
+[35m[39m
+2023-04-28 16:37:27:3727 [35mhttp[39m: [35mGET /api/pins 304 - - 832.403 ms[39m
+[35m[39m
+2023-04-28 16:38:38:3838 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-28 16:38:49:3849 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-28 16:39:33:3933 [35mhttp[39m: [35mGET /api/pins 200 37 - 134.139 ms[39m
+[35m[39m
+2023-04-28 16:39:33:3933 [35mhttp[39m: [35mGET /api/pins 200 37 - 129.673 ms[39m
+[35m[39m
+2023-04-28 16:39:45:3945 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 247.936 ms[39m
+[35m[39m
+2023-04-28 16:40:04:404 [35mhttp[39m: [35mPOST /api/pins 200 251 - 160.249 ms[39m
+[35m[39m
+2023-04-28 16:41:26:4126 [35mhttp[39m: [35mPOST /api/users/login 200 244 - 951.878 ms[39m
+[35m[39m
+2023-04-28 16:41:49:4149 [35mhttp[39m: [35mPOST /api/pins 200 241 - 137.523 ms[39m
+[35m[39m
+2023-04-28 16:45:43:4543 [35mhttp[39m: [35mGET /api/pins 200 530 - 844.006 ms[39m
+[35m[39m
+2023-04-28 16:45:47:4547 [35mhttp[39m: [35mGET /api/pins 304 - - 134.458 ms[39m
+[35m[39m
+2023-04-28 16:45:47:4547 [35mhttp[39m: [35mGET /api/pins 200 530 - 783.489 ms[39m
+[35m[39m
+2023-04-28 16:52:46:5246 [35mhttp[39m: [35mGET /api/pins 200 530 - 807.371 ms[39m
+[35m[39m
+2023-04-28 16:52:46:5246 [35mhttp[39m: [35mGET /api/pins 304 - - 824.614 ms[39m
+[35m[39m
+2023-04-28 17:02:31:231 [35mhttp[39m: [35mGET /api/pins 304 - - 821.239 ms[39m
+[35m[39m
+2023-04-28 17:02:31:231 [35mhttp[39m: [35mGET /api/pins 200 530 - 820.469 ms[39m
+[35m[39m
+2023-04-28 18:19:17:1917 [35mhttp[39m: [35mGET /api/pins 304 - - 865.766 ms[39m
+[35m[39m
+2023-04-28 18:22:48:2248 [35mhttp[39m: [35mGET /api/pins 304 - - 1824.710 ms[39m
+[35m[39m
+2023-04-28 18:22:54:2254 [35mhttp[39m: [35mGET /api/pins 304 - - 132.965 ms[39m
+[35m[39m
+2023-04-28 19:46:30:4630 [35mhttp[39m: [35mGET /api/pins 200 530 - 843.727 ms[39m
+[35m[39m
+2023-04-28 19:46:30:4630 [35mhttp[39m: [35mGET /api/pins 304 - - 868.117 ms[39m
+[35m[39m
+2023-04-28 19:51:09:519 [35mhttp[39m: [35mGET /api/pins 304 - - 833.489 ms[39m
+[35m[39m
+2023-04-28 19:53:36:5336 [35mhttp[39m: [35mGET /api/pins 304 - - 837.116 ms[39m
+[35m[39m
+2023-04-28 19:54:18:5418 [35mhttp[39m: [35mGET /api/pins 304 - - 126.889 ms[39m
+[35m[39m
+2023-04-28 19:54:51:5451 [35mhttp[39m: [35mGET /api/pins 304 - - 144.096 ms[39m
+[35m[39m
+2023-04-28 19:55:28:5528 [35mhttp[39m: [35mGET /api/pins 304 - - 138.887 ms[39m
+[35m[39m
+2023-04-28 19:56:28:5628 [35mhttp[39m: [35mGET /api/pins 304 - - 948.089 ms[39m
+[35m[39m
+2023-04-28 19:57:02:572 [35mhttp[39m: [35mGET /api/pins 304 - - 131.936 ms[39m
+[35m[39m
+2023-04-28 19:59:49:5949 [35mhttp[39m: [35mGET /api/pins 304 - - 815.922 ms[39m
+[35m[39m
+2023-04-28 20:00:09:09 [35mhttp[39m: [35mGET /api/pins 304 - - 131.788 ms[39m
+[35m[39m
+2023-04-28 20:00:25:025 [35mhttp[39m: [35mGET /api/pins 304 - - 130.549 ms[39m
+[35m[39m
+2023-04-28 20:00:26:026 [35mhttp[39m: [35mGET /api/pins 200 530 - 802.996 ms[39m
+[35m[39m
+2023-04-28 20:01:56:156 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 940.829 ms[39m
+[35m[39m
+2023-04-28 20:02:17:217 [35mhttp[39m: [35mPOST /api/pins 200 251 - 164.333 ms[39m
+[35m[39m
+2023-04-28 20:02:27:227 [35mhttp[39m: [35mPOST /api/pins 200 228 - 184.732 ms[39m
+[35m[39m
+2023-04-28 20:03:51:351 [35mhttp[39m: [35mGET /api/pins 200 1011 - 829.915 ms[39m
+[35m[39m
+2023-04-28 20:03:52:352 [35mhttp[39m: [35mGET /api/pins 304 - - 130.731 ms[39m
+[35m[39m
+2023-04-28 20:03:53:353 [35mhttp[39m: [35mGET /api/pins 200 1011 - 794.217 ms[39m
+[35m[39m
+2023-04-28 20:05:48:548 [35mhttp[39m: [35mGET /api/pins 304 - - 834.163 ms[39m
+[35m[39m
+2023-04-28 20:05:51:551 [35mhttp[39m: [35mGET /api/pins 304 - - 127.881 ms[39m
+[35m[39m
+2023-04-28 20:05:52:552 [35mhttp[39m: [35mGET /api/pins 200 1011 - 776.860 ms[39m
+[35m[39m
+2023-04-28 20:07:54:754 [35mhttp[39m: [35mGET /api/pins 304 - - 813.287 ms[39m
+[35m[39m
+2023-04-28 20:08:44:844 [35mhttp[39m: [35mGET /api/pins 304 - - 792.099 ms[39m
+[35m[39m
+2023-04-28 20:12:27:1227 [35mhttp[39m: [35mGET /api/pins 304 - - 856.228 ms[39m
+[35m[39m
+2023-04-28 20:12:37:1237 [35mhttp[39m: [35mGET /api/pins 304 - - 130.985 ms[39m
+[35m[39m
+2023-04-28 20:12:42:1242 [35mhttp[39m: [35mGET /api/pins 304 - - 130.683 ms[39m
+[35m[39m
+2023-04-28 20:12:43:1243 [35mhttp[39m: [35mGET /api/pins 200 1011 - 795.416 ms[39m
+[35m[39m
+2023-04-28 20:12:56:1256 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 247.541 ms[39m
+[35m[39m
+2023-04-28 20:13:13:1313 [35mhttp[39m: [35mPOST /api/pins 200 238 - 143.720 ms[39m
+[35m[39m
+2023-04-28 20:21:25:2125 [35mhttp[39m: [35mGET /api/pins 200 1250 - 856.645 ms[39m
+[35m[39m
+2023-04-28 20:21:28:2128 [35mhttp[39m: [35mGET /api/pins 304 - - 132.035 ms[39m
+[35m[39m
+2023-04-28 20:21:29:2129 [35mhttp[39m: [35mGET /api/pins 200 1250 - 781.741 ms[39m
+[35m[39m
+2023-04-28 20:21:39:2139 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 254.754 ms[39m
+[35m[39m
+2023-04-28 20:22:13:2213 [35mhttp[39m: [35mGET /api/pins 304 - - 134.411 ms[39m
+[35m[39m
+2023-04-28 20:22:37:2237 [35mhttp[39m: [35mGET /api/pins 304 - - 131.570 ms[39m
+[35m[39m
+2023-04-28 20:22:40:2240 [35mhttp[39m: [35mGET /api/pins 304 - - 132.953 ms[39m
+[35m[39m
+2023-04-28 20:22:41:2241 [35mhttp[39m: [35mGET /api/pins 200 1250 - 787.215 ms[39m
+[35m[39m
+2023-04-28 20:22:52:2252 [35mhttp[39m: [35mPOST /api/users/login 200 244 - 251.809 ms[39m
+[35m[39m
+2023-04-28 20:25:18:2518 [35mhttp[39m: [35mGET /api/pins 304 - - 950.378 ms[39m
+[35m[39m
+2023-04-28 20:25:53:2553 [35mhttp[39m: [35mGET /api/pins 304 - - 141.475 ms[39m
+[35m[39m
+2023-04-28 20:26:01:261 [35mhttp[39m: [35mGET /api/pins 304 - - 124.257 ms[39m
+[35m[39m
+2023-04-28 20:26:15:2615 [35mhttp[39m: [35mGET /api/pins 304 - - 125.208 ms[39m
+[35m[39m
+2023-04-28 20:26:15:2615 [35mhttp[39m: [35mGET /api/pins 200 1250 - 781.695 ms[39m
+[35m[39m
+2023-04-28 20:26:41:2641 [35mhttp[39m: [35mGET /api/pins 304 - - 132.840 ms[39m
+[35m[39m
+2023-04-28 20:26:53:2653 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 256.120 ms[39m
+[35m[39m
+2023-04-28 20:27:05:275 [35mhttp[39m: [35mPOST /api/users/login 200 244 - 234.262 ms[39m
+[35m[39m
+2023-04-28 20:27:25:2725 [35mhttp[39m: [35mPOST /api/pins 200 244 - 152.420 ms[39m
+[35m[39m
+2023-04-28 20:41:42:4142 [35mhttp[39m: [35mPOST /api/users/register 200 73 - 990.119 ms[39m
+[35m[39m
+2023-04-28 20:42:01:421 [35mhttp[39m: [35mPOST /api/users/login 200 222 - 250.518 ms[39m
+[35m[39m
+2023-04-28 20:43:37:4337 [35mhttp[39m: [35mGET /api/pins 200 1495 - 848.634 ms[39m
+[35m[39m
+2023-04-28 20:44:58:4458 [37mdebug[39m: [37mServer listening on port 8800[39m
+2023-04-28 20:45:10:4510 [32minfo[39m: [32mConnected to MongoDB successfully[39m
+2023-04-28 20:45:10:4510 [35mhttp[39m: [35mGET /api/pins 200 1495 - 5106.024 ms[39m
+[35m[39m
+2023-04-28 20:45:11:4511 [35mhttp[39m: [35mGET /api/pins 304 - - 5663.653 ms[39m
+[35m[39m
+2023-04-28 20:45:36:4536 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:39:4539 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:40:4540 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:40:4540 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:51:4551 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:47:11:4711 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:47:11:4711 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:47:11:4711 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:47:11:4711 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:47:11:4711 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:47:12:4712 [35mhttp[39m: [35mGET /api/pins 200 1495 - 824.035 ms[39m
+[35m[39m
+2023-04-28 20:47:12:4712 [35mhttp[39m: [35mGET /api/pins 200 1495 - 825.958 ms[39m
+[35m[39m
+2023-04-28 20:49:01:491 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:49:16:4916 [35mhttp[39m: [35mPOST /api/users/register 200 73 - 929.032 ms[39m
+[35m[39m
+2023-04-28 20:49:16:4916 [35mhttp[39m: [35mPOST /api/users/register 200 73 - 848.948 ms[39m
+[35m[39m
+2023-04-28 20:49:17:4917 [35mhttp[39m: [35mPOST /api/users/register 200 73 - 1275.037 ms[39m
+[35m[39m
+2023-04-28 20:50:02:502 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:50:03:503 [35mhttp[39m: [35mGET /api/pins 200 1495 - 794.765 ms[39m
+[35m[39m
+2023-04-28 20:50:03:503 [35mhttp[39m: [35mGET /api/pins 304 - - 811.565 ms[39m
+[35m[39m
+2023-04-28 20:50:09:509 [35mhttp[39m: [35mGET /api/pins 304 - - 131.457 ms[39m
+[35m[39m
+2023-04-28 20:50:09:509 [35mhttp[39m: [35mGET /api/pins 200 1495 - 130.642 ms[39m
+[35m[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:18:5018 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:29:5029 [35mhttp[39m: [35mPOST /api/users/login 403 32 - 251.413 ms[39m
+[35m[39m
+2023-04-28 20:50:50:5050 [35mhttp[39m: [35mPOST /api/users/login 200 248 - 242.452 ms[39m
+[35m[39m
+2023-04-28 20:51:56:5156 [35mhttp[39m: [35mPOST /api/pins 200 253 - 866.901 ms[39m
+[35m[39m
+2023-04-28 20:52:54:5254 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:52:54:5254 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:52:54:5254 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:52:54:5254 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:52:55:5255 [35mhttp[39m: [35mGET /api/pins 200 1749 - 832.677 ms[39m
+[35m[39m
+2023-04-28 20:52:55:5255 [35mhttp[39m: [35mGET /api/pins 200 1749 - 845.214 ms[39m
+[35m[39m
+2023-04-28 20:53:15:5315 [35mhttp[39m: [35mPOST /api/users/register 200 73 - 227.018 ms[39m
+[35m[39m
+2023-04-28 20:53:36:5336 [35mhttp[39m: [35mPOST /api/users/login 200 240 - 243.031 ms[39m
+[35m[39m
+2023-04-28 20:55:19:5519 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:22:5522 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:04:564 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:56:05:565 [35mhttp[39m: [35mGET /api/pins 304 - - 813.362 ms[39m
+[35m[39m
+2023-04-28 20:56:05:565 [35mhttp[39m: [35mGET /api/pins 200 1749 - 800.362 ms[39m
+[35m[39m
+2023-04-28 20:56:21:5621 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:56:24:5624 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:58:03:583 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:58:03:583 [35mhttp[39m: [35mPOST /api/users/register - - - - ms[39m
+[35m[39m
+2023-04-28 20:58:05:585 [35mhttp[39m: [35mGET /api/pins 304 - - 829.450 ms[39m
+[35m[39m
+2023-04-28 20:58:05:585 [35mhttp[39m: [35mGET /api/pins 200 1749 - 831.754 ms[39m
+[35m[39m

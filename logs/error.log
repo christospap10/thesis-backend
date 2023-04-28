@@ -4,3 +4,24 @@
 2023-04-26 19:04:29:429 [31merror[39m: [31mCannot read property 'password' of null[39m
 2023-04-27 23:34:35:3435 [31merror[39m: [31mOperation `pins.find()` buffering timed out after 10000ms[39m
 2023-04-27 23:34:35:3435 [31merror[39m: [31mOperation `pins.find()` buffering timed out after 10000ms[39m
+2023-04-28 20:45:36:4536 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:39:4539 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:40:4540 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:40:4540 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:45:51:4551 [31merror[39m: [31mUser validation failed: email: Path `email` is required.[39m
+2023-04-28 20:49:01:491 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:17:5017 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:50:18:5018 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:19:5519 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:21:5521 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:22:5522 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:55:23:5523 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:56:21:5621 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
+2023-04-28 20:56:24:5624 [31merror[39m: [31mUser validation failed: username: Path `username` is required., email: Path `email` is required.[39m
