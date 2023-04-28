@@ -1,4 +1,4 @@
-import express, { Router } from 'express';
+import express from 'express';
 import mongoose from 'mongoose';
 import * as  dotenv from 'dotenv';
 import Logger from '../lib/logger';

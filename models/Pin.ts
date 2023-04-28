@@ -4,13 +4,10 @@ import mongoose from "mongoose";
 export interface IPin {
 	username: string;
 	title: string;
-	desc: string;
+	descr: string;
 	rating: number;
 	lat: number;
-	long: number;
-	_id: string;
-	created_at: string;
-	updated_at: string;
+	lon: number;
 }
 
 
@@ -24,7 +21,7 @@ const PinSchema = new mongoose.Schema<IPin>({
 		require: true,
 		min: 3,
 	},
-	desc: {
+	descr: {
 		type: String,
 		require: true,
 		min: 3,
@@ -39,7 +36,7 @@ const PinSchema = new mongoose.Schema<IPin>({
 		type: Number,
 		require: true,
 	},
-	long: {
+	lon: {
 		type: Number,
 		require: true,
 	},
